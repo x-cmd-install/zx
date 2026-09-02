@@ -1,0 +1,58 @@
+about:
+  description: A tool for writing better scripts
+  license: Apache-2.0
+  homepage: https://google.github.io/zx/
+  head: 65fc542
+  archived: false
+  latestVersion: 8.8.5
+  collectedAt: 2026-09-02T05:09:29Z
+timeline:
+  created: 2021-05-05
+  lastCommit: 2026-08-14
+  lastRelease: 2025-10-19
+popularity:
+  star: 45718
+  watcher: 166
+  fork: 1291
+  release: 100
+  contributor: 87
+  pullRequest: 220
+  issue: 520
+language:
+  JavaScript: 184889
+  TypeScript: 102965
+  Dockerfile: 213
+totalLine: 288067
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 1
+    openPR: 6
+    closedIssue: 0
+    openIssue: 1
+    commit: 1
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 4
+    openPR: 15
+    closedIssue: 2
+    openIssue: 1
+    commit: 4
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 14
+    openPR: 27
+    closedIssue: 7
+    openIssue: 2
+    commit: 12
+  last360d:
+    since: 2025-09-07
+    release: 4
+    mergedPR: 64
+    openPR: 36
+    closedIssue: 23
+    openIssue: 7
+    commit: 64
