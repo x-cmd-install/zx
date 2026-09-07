@@ -5,13 +5,13 @@ about:
   head: 65fc542
   archived: false
   latestVersion: "8.8.5"
-  collectedAt: 2026-09-07T04:57:23Z
+  collectedAt: 2026-09-07T19:27:18Z
 timeline:
   created: 2021-05-05
   lastCommit: 2026-08-14
   lastRelease: 2025-10-19
 popularity:
-  star: 45730
+  star: 45731
   watcher: 167
   fork: 1292
   release: 100
@@ -81,7 +81,7 @@ total:
   commit: 1028
 ---
 path: /home/runner/.x-repo/github.com/google/zx
-collectedAt: 2026-09-07T04:57:24Z
+collectedAt: 2026-09-07T19:27:19Z
 loc:
   JavaScript:
     code: 28983
@@ -311,7 +311,7 @@ checks:
       - 'Warn: 29 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:57:25+00:00
+  collectedAt: 2026-09-07T19:27:20+00:00
   platform:
     darwin/arm64:
       name:  null
