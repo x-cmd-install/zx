@@ -5,15 +5,15 @@ about:
   head: 65fc542
   archived: false
   latestVersion: "8.8.5"
-  collectedAt: 2026-09-08T02:15:00Z
+  collectedAt: 2026-09-08T04:51:03Z
 timeline:
   created: 2021-05-05
   lastCommit: 2026-08-14
   lastRelease: 2025-10-19
 popularity:
-  star: 45731
+  star: 45732
   watcher: 167
-  fork: 1292
+  fork: 1293
   release: 100
   contributor: 76
   pullRequest: 839
@@ -81,7 +81,7 @@ total:
   commit: 1028
 ---
 path: /home/runner/.x-repo/github.com/google/zx
-collectedAt: 2026-09-08T02:15:02Z
+collectedAt: 2026-09-08T04:51:04Z
 loc:
   JavaScript:
     code: 28983
