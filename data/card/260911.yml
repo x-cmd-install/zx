@@ -7,7 +7,7 @@ about:
   latestVersion: "8.8.5"
   latestRelease: "8.8.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:13:25Z
+  collectedAt: 2026-09-11T04:58:30Z
 timeline:
   created: 2021-05-05
   lastCommit: 2026-08-14
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-10-19
   lastPrerelease: 
 popularity:
-  star: 45734
+  star: 45733
   watcher: 168
   fork: 1294
   release: 100
@@ -85,7 +85,7 @@ total:
   commit: 1028
 ---
 path: /home/runner/.x-repo/github.com/google/zx
-collectedAt: 2026-09-11T00:13:26Z
+collectedAt: 2026-09-11T04:58:31Z
 loc:
   JavaScript:
     code: 28983
