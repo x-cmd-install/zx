@@ -26,12 +26,12 @@ x install zx
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7 / 10**
+总评分: **6.9 / 10**
 
 评分最低的几项:
 
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Code-Review** (3/10) — Found 9/26 approved changesets -- score normalized to 3
-- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -47,7 +47,7 @@ x install zx
 
 ## 流行度
 
-- **Star**: 45,742 · **Fork**: 1,293 · **开放 issue**: 520 · **贡献者**: 76
+- **Star**: 45,745 · **Fork**: 1,295 · **开放 issue**: 520 · **贡献者**: 76
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install zx
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 6 | 0 | 1 | 0 |
-| last60d | 2026-07-16 | 0 | 1 | 11 | 0 | 1 | 1 |
-| 90d | 2026-06-16 | 0 | 2 | 15 | 1 | 1 | 3 |
-| last180d | 2026-03-18 | 0 | 11 | 29 | 5 | 2 | 11 |
-| 360d | 2025-09-19 | 4 | 61 | 37 | 21 | 7 | 59 |
-| last720d | 2024-09-24 | 30 | 370 | 39 | 95 | 15 | 398 |
+| 30d | 2026-08-16 | 0 | 0 | 6 | 0 | 1 | 0 |
+| last60d | 2026-07-17 | 0 | 1 | 11 | 0 | 1 | 1 |
+| 90d | 2026-06-17 | 0 | 2 | 15 | 1 | 1 | 3 |
+| last180d | 2026-03-19 | 0 | 11 | 29 | 5 | 2 | 11 |
+| 360d | 2025-09-20 | 3 | 60 | 37 | 21 | 7 | 59 |
+| last720d | 2024-09-25 | 30 | 369 | 39 | 94 | 15 | 398 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ zx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:17:38Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:19:15Z._
