@@ -4,7 +4,7 @@
 
 A tool for writing better scripts
 
-[![x-cmd/install — zx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/zx.svg?lang=zh)](https://x-cmd.com/install/zx)
+[![x-cmd/install — zx Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/zx.svg?lang=zh)](https://x-cmd.com/install/zx)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install zx
 
 ## 流行度
 
-- **Star**: 45,761 · **Fork**: 1,299 · **开放 issue**: 520 · **贡献者**: 76
+- **Star**: 45,763 · **Fork**: 1,301 · **开放 issue**: 520 · **贡献者**: 76
 
 ## 累计统计
 
-- **发布数**: 100 · **已合并 PR**: 617 · **开放 PR**: 41 · **已关闭 issue**: 501 · **开放 issue**: 19 · **提交数**: 1028
+- **发布数**: 100 · **已合并 PR**: 617 · **开放 PR**: 43 · **已关闭 issue**: 501 · **开放 issue**: 19 · **提交数**: 1028
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 1 | 11 | 0 | 1 | 1 |
-| 90d | 2026-06-24 | 0 | 2 | 17 | 0 | 1 | 1 |
-| last180d | 2026-03-26 | 0 | 10 | 31 | 4 | 2 | 11 |
-| 360d | 2025-09-27 | 1 | 56 | 39 | 20 | 7 | 56 |
-| last720d | 2024-10-02 | 30 | 367 | 41 | 94 | 15 | 398 |
+| 30d | 2026-08-24 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 1 | 12 | 0 | 1 | 1 |
+| 90d | 2026-06-25 | 0 | 2 | 19 | 0 | 1 | 1 |
+| last180d | 2026-03-27 | 0 | 10 | 32 | 4 | 1 | 11 |
+| 360d | 2025-09-28 | 1 | 56 | 41 | 20 | 7 | 56 |
+| last720d | 2024-10-03 | 30 | 365 | 43 | 94 | 15 | 398 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ zx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:27:07Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:12:21Z._
