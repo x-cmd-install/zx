@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 45,790 · **Forks**: 1,315 · **Open issues**: 521 · **Contributors**: 76
+- **Stars**: 45,796 · **Forks**: 1,316 · **Open issues**: 522 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 617 · **Open PRs**: 6 · **Closed issues**: 510 · **Open issues**: 11 · **Commits**: 1028
+- **Releases**: 100 · **Merged PRs**: 617 · **Open PRs**: 7 · **Closed issues**: 510 · **Open issues**: 12 · **Commits**: 1028
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 5 | 1 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 5 | 1 | 1 | 0 |
-| 90d | 2026-07-18 | 0 | 1 | 5 | 1 | 1 | 1 |
-| last180d | 2026-04-19 | 0 | 7 | 5 | 5 | 1 | 7 |
-| 360d | 2025-10-21 | 0 | 44 | 5 | 20 | 6 | 44 |
-| last720d | 2024-10-26 | 29 | 363 | 6 | 102 | 7 | 391 |
+| 30d | 2026-09-17 | 0 | 0 | 6 | 1 | 1 | 0 |
+| last60d | 2026-08-18 | 0 | 0 | 6 | 1 | 2 | 0 |
+| 90d | 2026-07-19 | 0 | 1 | 6 | 1 | 2 | 1 |
+| last180d | 2026-04-20 | 0 | 7 | 6 | 5 | 2 | 7 |
+| 360d | 2025-10-22 | 0 | 44 | 6 | 20 | 7 | 44 |
+| last720d | 2024-10-27 | 29 | 363 | 7 | 102 | 8 | 391 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for zx lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:47:23Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:37:44Z._
