@@ -7,7 +7,7 @@ about:
   latestVersion: "8.8.5"
   latestRelease: "8.8.5"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:01:59Z
+  collectedAt: 2026-10-30T06:08:14Z
 timeline:
   created: 2021-05-05
   lastCommit: 2026-10-23
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2025-10-19
   lastPrerelease: 
 popularity:
-  star: 45827
+  star: 45826
   watcher: 161
-  fork: 1327
+  fork: 1328
   release: 100
   contributor: 76
   pullRequest: 860
@@ -29,7 +29,7 @@ language:
 totalBytes: 288067
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 1
     openPR: 11
@@ -37,7 +37,7 @@ recent:
     openIssue: 1
     commit: 1
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 1
     openPR: 11
@@ -45,7 +45,7 @@ recent:
     openIssue: 1
     commit: 1
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 2
     openPR: 11
@@ -53,7 +53,7 @@ recent:
     openIssue: 2
     commit: 2
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 8
     openPR: 11
@@ -61,21 +61,21 @@ recent:
     openIssue: 2
     commit: 8
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
-    mergedPR: 44
+    mergedPR: 43
     openPR: 11
     closedIssue: 19
     openIssue: 7
     commit: 43
   last720d:
-    since: 2024-11-08
-    release: 28
-    mergedPR: 351
+    since: 2024-11-09
+    release: 27
+    mergedPR: 350
     openPR: 12
-    closedIssue: 97
+    closedIssue: 96
     openIssue: 8
-    commit: 382
+    commit: 379
 total:
   release: 100
   mergedPR: 618
@@ -85,7 +85,7 @@ total:
   commit: 1029
 ---
 path: /home/runner/.x-repo/github.com/google/zx
-collectedAt: 2026-10-29T06:02:03Z
+collectedAt: 2026-10-30T06:08:15Z
 loc:
   JavaScript:
     code: 28983
